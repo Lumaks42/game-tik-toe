@@ -5,8 +5,8 @@
 Технологии: React | CSS
 
 Начало игры:
-![Начало игры](https://github.com/Lumaks42/game-tik-toe/blob/main/public/startScreen.png)
+![Начало игры](https://github.com/Lumaks42/game-tik-toe/blob/master/public/screen.png/startScreen.png)
 
 Процесс игры:
-![Процесс игры](https://github.com/Lumaks42/game-tik-toe/blob/main/public/Screen.png)
+![Процесс игры](https://github.com/Lumaks42/game-tik-toe/blob/master/public/screen.png)
 
